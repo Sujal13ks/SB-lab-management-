@@ -1,2 +1,2 @@
 # SB-lab-management-
-mini project SYIT
+mini project SYIT.
